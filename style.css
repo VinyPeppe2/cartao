@@ -1,0 +1,46 @@
+body{
+    background-color: beige;
+}
+
+#foto{
+    margin-top: 30px;
+    border-radius: 22%;
+    width: 200px;
+    height: 230px;
+    border: 1px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#NameProfissional{
+    font-family: "Lilita one", "Arial Black", Aril, "Times New Roman";
+}
+
+.cartaoVirtual{
+    justify-content: center;
+    text-align: center;
+}
+
+#textProfissional{
+    font-family: "Arial", sans-serif, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#contatoProfissional{
+    /*border: 1px solid black;*/
+    width: 400px;
+    height: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-family: "Lilita one", "Arial Black", Aril, "Times New Roman";
+    font-size: 18px;
+}
+
+.img-edit{
+    width: 40px;
+    height:40px;
+}
